@@ -1,6 +1,6 @@
 import math
 
-print('Ola seja(m) bem vindas(os)^^')
+print('Ola seja bem vinda(o)!')
 print('\nDigite 0 para Estimativa da Média de uma População')
 print('Digite 1 para Estimativa da Proporção de uma População\n')
 duv=int(input('0 ou 1: '))

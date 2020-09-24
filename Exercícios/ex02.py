@@ -2,6 +2,7 @@
 # B = float(input())
 # C = float(input())
 # A,B,C = float(input()).split()
+
 A,B,C = input().split()
 
 A = float(A)
@@ -10,6 +11,7 @@ C = float(C)
 lista = [A,B,C]
 lista.sort(reverse = True)
 A,B,C = lista
+
 if (A >= B+C):
     print ("NAO FORMA TRIANGULO")
 
@@ -24,17 +26,8 @@ else:
         print("TRIANGULO EQUILATERO")
     if (A == B and B != C) or (A == C and B != A) or (B == C and C != A):
         print("TRIANGULO ISOSCELES")
-"""
 
-
-
-
-"""
-
-
-"""
-
-else:
+"""else:
     B = c
     C = b
 elif(b >= a and b >= c):
@@ -60,5 +53,4 @@ if(A2) < (B2) + (C**2):
   print("TRIANGULO ACUTANGULO") if(A == B == C):
   print("TRIANGULO EQUILATERO")
 elif(A == B) or (A == C) or (B == C):
-  print("TRIANGULO ISOSCELES")
-"""
+  print("TRIANGULO ISOSCELES")"""

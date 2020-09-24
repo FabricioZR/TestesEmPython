@@ -12,9 +12,9 @@ def dist_binomial(n, x, p):
 
 print()
 print("_________________________________________________________________________________________________________")
-print("  Ola, bem vinda(o) ao programa que vai te ajudar a resolver questoes referentes a Distribui�oes Binomiais:")
-print("  Para Distribui��o Binomial digite 1;")
-print("  Para Distribui��o Binomial Acumulada digite 2.")
+print("  Ola, bem vinda(o) ao programa que vai te ajudar a resolver questoes referentes a Distribuicoes Binomiais:")
+print("  Para Distribuicao Binomial digite 1;")
+print("  Para Distribuicao Binomial Acumulada digite 2.")
 print()
 
 while True:

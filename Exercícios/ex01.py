@@ -1,0 +1,6 @@
+X = int(input())
+H = int(X/3600)
+R = int(X%3600)
+M = int(R/60)
+S = int(R%60)
+print (str(H)+":"+str(M),":",str(S))
