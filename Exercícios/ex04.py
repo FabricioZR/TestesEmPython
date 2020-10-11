@@ -1,5 +1,5 @@
 triangulo = input(a,b,c).split()
-a = float(a) b = float(b) c = float(c)
+a = float(a), b = float(b), c = float(c);
 
 if (a >= b and a >= c):
     A = a
